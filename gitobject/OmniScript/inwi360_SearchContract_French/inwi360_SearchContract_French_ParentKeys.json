@@ -1,0 +1,10 @@
+[
+    "DataRaptor/InwiB2C_GetContractIdFromSub",
+    "DataRaptor/InwiB2C_GetUsersAccount",
+    "DataRaptor/InwiB2C_SearchContractByNum",
+    "DataRaptor/InwiB2C_UpdateAddress",
+    "DataRaptor/InwiB2C_UpdateStatutOrders_VIVS",
+    "DataRaptor/Inwi_B2C_CreateAccount",
+    "DataRaptor/Inwi_B2C_CreateContactForAccount",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateContract"
+]

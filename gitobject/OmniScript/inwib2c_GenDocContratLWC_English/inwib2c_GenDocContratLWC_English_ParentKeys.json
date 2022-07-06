@@ -1,0 +1,7 @@
+[
+    "DataRaptor/GetContratMobileTemplatesForType",
+    "DataRaptor/INWIGetContratInfos",
+    "DataRaptor/INWIGetContratInfosForVIVS",
+    "DataRaptor/InwiB2C_GetOrdersInfosForDoc",
+    "VlocityUITemplate/object-document-creation-docx-template"
+]

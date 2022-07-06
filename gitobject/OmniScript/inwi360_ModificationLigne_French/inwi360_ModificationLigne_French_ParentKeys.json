@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWI-B2C-Recap-Client",
+    "DataRaptor/INWIB2C-DRE-GetInfosFromSubscription",
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "DataRaptor/InwiB2C_GetDemandePortaEnCours",
+    "DataRaptor/InwiB2C_GetOrderEnCoursOfSubscription",
+    "DataRaptor/Inwi_B2C_OmniScript_AllSubscriptions",
+    "DataRaptor/Inwib2c_check_eligibility_clientSMO",
+    "DataRaptor/inwiB2C_ISManagedInSF"
+]

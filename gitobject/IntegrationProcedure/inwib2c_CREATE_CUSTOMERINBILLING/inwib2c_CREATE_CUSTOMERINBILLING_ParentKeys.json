@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C_GetClientInfo_BSCSBillingAccount",
+    "DataRaptor/InwiB2C-DRE-FRLIds",
+    "DataRaptor/InwiB2C_getAccountInfofromOrder",
+    "DataRaptor/InwiB2C_updateFlagExistBSCS_IMX"
+]

@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "IntegrationProcedure/Inwi_InwiB2C_IP_TransfertSolde",
+    "IntegrationProcedure/Inwi_InwiB2C_IP_TransfertSolde_Recu"
+]

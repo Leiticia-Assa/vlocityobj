@@ -1,0 +1,9 @@
+[
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwi_b2c_get_information_account_paiement",
+    "DataRaptor/inwib2c_Post_account_informations_coordonne_bancaire_in_demande_Rib",
+    "DataRaptor/inwib2c_Post_account_informations_coordonne_bancaire_in_demande_Rib_reprise",
+    "DataRaptor/inwib2c_creation_demande_cordonneesbancaires",
+    "DataRaptor/inwib2c_extract_demande_cordonnee_bancaires",
+    "DataRaptor/inwib2c_post_account_informations_Rib"
+]

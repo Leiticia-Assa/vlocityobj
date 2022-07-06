@@ -1,0 +1,6 @@
+[
+    "DataRaptor/InwiB2C_CreateAddress",
+    "DataRaptor/InwiB2C_OS_UpdateContract",
+    "DataRaptor/InwiB2C_getInfoAccount",
+    "DataRaptor/inwiB2C_updateOrderStatus"
+]

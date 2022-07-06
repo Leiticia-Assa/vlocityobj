@@ -1,0 +1,14 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetListProfileOffre",
+    "DataRaptor/InwiB2C_GetTimeNow",
+    "DataRaptor/InwiB2C_TriggerReplaceOfferEvent",
+    "DataRaptor/InwiB2C_getIdOfMDN",
+    "DataRaptor/InwiB2C_getMetadaConfig",
+    "DataRaptor/InwiB2C_getOrderItemsFromOrder",
+    "DataRaptor/InwiB2C_updateOrder",
+    "DataRaptor/InwiB2C_updateOrderItem",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/inwib2c_inwiB2C_AssetGeneration"
+]

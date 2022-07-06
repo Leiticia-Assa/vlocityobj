@@ -1,0 +1,10 @@
+[
+    "DataRaptor/InwiB2C_DR_SearchBillingAccountByCIN",
+    "DataRaptor/InwiB2C_DR_getBillingAccounts",
+    "DataRaptor/inwiB2C_DR_SearchBillingAccountByBillingAccountNumber",
+    "DataRaptor/inwiB2C_DR_SearchBillingAccountByMDN",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwib2c_getBillingAccountsFromBillingAccountId",
+    "IntegrationProcedure/Inwi_Inwib2CInvoiceByBillingAccount",
+    "IntegrationProcedure/inwib2c_inwiB2C_GetBillingAccountbyInvoice"
+]

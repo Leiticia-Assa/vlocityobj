@@ -1,0 +1,14 @@
+[
+    "DataRaptor/INWIB2C-DRE-GetInfosFromSubscription",
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_GetOrderInfosForMigration",
+    "DataRaptor/inwiB2C_DRTDisplayOrdersInfosMig",
+    "DataRaptor/inwiB2C_DRTOffreCible",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_updateOrderSMO",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/inwib2c_ConsultationDesBalances"
+]

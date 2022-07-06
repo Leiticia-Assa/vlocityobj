@@ -1,0 +1,96 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "InwiB2C_Achat_pass",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_Achat_pass/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "bucket": [
+                {
+                    "bucketBalance": [
+                    ],
+                    "bucketCounter": [
+                    ],
+                    "product": [
+                    ],
+                    "properties": {
+                        "M_BAL_DEBITEE": "3999:30;5173:19105000000;5169:3000000000;",
+                        "M_DATE": "2021-10-23 10:34:07",
+                        "M_DUREE_PASS": "30",
+                        "M_NOM_PASS": "Pass RS illimitÃ©",
+                        "M_PRIX_PASS": "30",
+                        "M_VOLUM_DATA": "19105000000"
+                    }
+                },
+                {
+                    "bucketBalance": [
+                    ],
+                    "bucketCounter": [
+                    ],
+                    "product": [
+                    ],
+                    "properties": {
+                        "M_BAL_DEBITEE": "3999:30;5173:19105000000;5169:3000000000;",
+                        "M_DATE": "2021-09-21 11:11:15",
+                        "M_DUREE_PASS": "30",
+                        "M_NOM_PASS": "Pass RS illimité",
+                        "M_PRIX_PASS": "30",
+                        "M_VOLUM_DATA": "19105000000"
+                    }
+                },
+                {
+                    "bucketBalance": [
+                    ],
+                    "bucketCounter": [
+                    ],
+                    "product": [
+                    ],
+                    "properties": {
+                        "M_BAL_DEBITEE": "3999:5;5121:500000000;",
+                        "M_DATE": "2021-09-19 14:47:05",
+                        "M_DUREE_PASS": "1",
+                        "M_NOM_PASS": "Pass internet 1J",
+                        "M_PRIX_PASS": "5",
+                        "M_VOLUM_DATA": "500000000"
+                    }
+                },
+                {
+                    "bucketBalance": [
+                    ],
+                    "bucketCounter": [
+                    ],
+                    "product": [
+                    ],
+                    "properties": {
+                        "M_BAL_DEBITEE": "3999:30;5173:19105000000;5169:3000000000;",
+                        "M_DATE": "2021-08-17 18:21:37",
+                        "M_DUREE_PASS": "30",
+                        "M_NOM_PASS": "Pass RS illimité",
+                        "M_PRIX_PASS": "30",
+                        "M_VOLUM_DATA": "19105000000"
+                    }
+                }
+            ]
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues2",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "res",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_Achat_pass/Procedure/res"
+}

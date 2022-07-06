@@ -1,0 +1,11 @@
+{
+    "content": "Votre demande de résiliation est effective, votre ligne est dorénavant prépayée.",
+    "receiver": [
+        {
+            "phoneNumber": "212708852871"
+        }
+    ],
+    "sender": {
+        "phoneNumber": "220"
+    }
+}

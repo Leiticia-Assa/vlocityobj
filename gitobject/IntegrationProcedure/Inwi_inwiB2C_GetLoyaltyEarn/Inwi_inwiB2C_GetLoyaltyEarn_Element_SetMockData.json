@@ -1,0 +1,164 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "inwiB2C_GetLoyaltyEarn",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/inwiB2C_GetLoyaltyEarn/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "result": {
+                "code": "0",
+                "id": "10029636788",
+                "loyaltyTransaction": [
+                    {
+                        "id": "-1",
+                        "quantity": 51,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-31T22:07:00Z[UTC]",
+                            "startDateTime": "2018-10-31T22:07:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 81,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-31T22:07:00Z[UTC]",
+                            "startDateTime": "2018-10-31T22:07:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 37,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-11-02T00:03:00Z[UTC]",
+                            "startDateTime": "2018-11-02T00:03:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 32,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-11-02T00:03:00Z[UTC]",
+                            "startDateTime": "2018-11-02T00:03:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 10,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-12-06T23:05:00Z[UTC]",
+                            "startDateTime": "2018-12-06T23:05:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 10,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-30T23:03:00Z[UTC]",
+                            "startDateTime": "2018-10-31T00:03:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 87,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-31T22:07:00Z[UTC]",
+                            "startDateTime": "2018-10-31T22:07:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 25,
+                        "section": "MonthlyAwardPark",
+                        "validFor": {
+                            "endDateTime": "2021-12-03T00:01:00Z[UTC]",
+                            "startDateTime": "2018-12-03T00:01:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "1429664310",
+                        "quantity": 25,
+                        "section": "MonthlyBonus",
+                        "validFor": {
+                            "endDateTime": "2020-11-01T23:01:00Z[UTC]",
+                            "startDateTime": "2017-11-01T23:01:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 10,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-12-03T00:02:00Z[UTC]",
+                            "startDateTime": "2018-12-03T00:02:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 73,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-31T22:07:00Z[UTC]",
+                            "startDateTime": "2018-10-31T22:07:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 92,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-11-02T00:01:00Z[UTC]",
+                            "startDateTime": "2018-11-02T00:01:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 50,
+                        "section": "RechargeProcessor",
+                        "validFor": {
+                            "endDateTime": "2021-10-31T22:07:00Z[UTC]",
+                            "startDateTime": "2018-10-31T22:07:00Z[UTC]"
+                        }
+                    },
+                    {
+                        "id": "-1",
+                        "quantity": 25,
+                        "section": "MonthlyAwardPark",
+                        "validFor": {
+                            "endDateTime": "2021-12-07T00:01:00Z[UTC]",
+                            "startDateTime": "2018-12-07T00:01:00Z[UTC]"
+                        }
+                    }
+                ],
+                "message": "",
+                "quantity": 608
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetMockData",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Inwi/inwiB2C_GetLoyaltyEarn/Procedure/SetMockData"
+}

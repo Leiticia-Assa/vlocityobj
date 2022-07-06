@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_InsertHistoryAction",
+    "DataRaptor/InwiB2C_UpdateHistoryAction",
+    "DataRaptor/InwiB2C_UpdateSubscriptionForMigration2G4G",
+    "DataRaptor/InwiB2C_getActionInfos",
+    "DataRaptor/InwiB2C_lastsuspensionFacturationcheck",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES"
+]

@@ -1,0 +1,13 @@
+[
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetContractFromSubscription",
+    "DataRaptor/InwiB2C_GetSubscrptionInfoEligibility",
+    "DataRaptor/InwiB2C_OS_UpdateContract",
+    "DataRaptor/InwiB2C_UpdateAddress",
+    "DataRaptor/InwiB2C_getIdPaysFromCodePays",
+    "DataRaptor/InwiB2C_getIdQuartierFromQuartierName",
+    "DataRaptor/InwiB2C_getIdRegionFromRegionName",
+    "DataRaptor/InwiB2C_getIdVilleFromVilleName",
+    "DataRaptor/Inwi_B2C_CreateAccount",
+    "DataRaptor/Inwi_B2C_CreateContactForAccount"
+]

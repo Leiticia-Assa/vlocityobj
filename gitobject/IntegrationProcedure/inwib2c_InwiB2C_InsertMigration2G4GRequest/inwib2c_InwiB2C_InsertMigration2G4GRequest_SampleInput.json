@@ -1,0 +1,18 @@
+{
+    "CSInfo": {
+        "codeArticle": "000056165",
+        "icc": "892128510050231410",
+        "imsi": "604050400067301",
+        "ki": "F97769DD8309EA44AD0EE2BBB7AB45CC",
+        "mdn2g": "212648076399",
+        "mdn4g": "212648076631",
+        "ocsId": "IN2",
+        "puk": "26364298",
+        "step": "Creation"
+    },
+    "CSOperationInfo": {
+        "channel": "MYINWI",
+        "user": "test.test@inwi.ma",
+        "uuid": "1fad6f89-fb08-4c48-8bc3-8e2b2949b978"
+    }
+}

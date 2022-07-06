@@ -1,0 +1,7 @@
+[
+    "DataRaptor/InwiB2C_GetMDN_FromAccount",
+    "DataRaptor/InwiB2C_InsertDemandeDesidentification",
+    "DataRaptor/InwiB2C_SetDesidSubFlag",
+    "DataRaptor/InwiB2C_SetStatusEncoursDesidentification",
+    "DataRaptor/InwiB2C_getMDN_byCIN"
+]

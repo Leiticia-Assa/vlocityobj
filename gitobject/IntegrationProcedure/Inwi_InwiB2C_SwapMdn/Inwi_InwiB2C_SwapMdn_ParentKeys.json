@@ -1,0 +1,9 @@
+[
+    "DataRaptor/INWIB2C-DRE-GetCAMELVOLTE",
+    "DataRaptor/INWIB2C-DRE-GetFRLFORSWAP",
+    "DataRaptor/INWIB2C-DRE-GetOldMdn",
+    "DataRaptor/InwiB2C-DRE-FRLIds",
+    "DataRaptor/InwiB2C-DRT-RequestOss",
+    "DataRaptor/InwiB2C-DRT-RespenseOperator",
+    "IntegrationProcedure/Inwi_InwiB2C_Get_Source_Operator"
+]

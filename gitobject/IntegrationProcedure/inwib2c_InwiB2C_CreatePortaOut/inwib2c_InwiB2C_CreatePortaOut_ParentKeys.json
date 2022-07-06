@@ -1,0 +1,14 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetOrderItemsIdsByOrderId",
+    "DataRaptor/InwiB2C_SetOrderDisconnect",
+    "DataRaptor/InwiB2C_UpdatePortaOutFields",
+    "DataRaptor/InwiB2C_UpdateSMOInfoAPI",
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_DRPinsertAssetGenerationEvent",
+    "DataRaptor/inwiB2C_DRTtimeStampNow",
+    "DataRaptor/inwiB2C_InsertExecutePortaOutEvent",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_checkAssetInventoryItems"
+]

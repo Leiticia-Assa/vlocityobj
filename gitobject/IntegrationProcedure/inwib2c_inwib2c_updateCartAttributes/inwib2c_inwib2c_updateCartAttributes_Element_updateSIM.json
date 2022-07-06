@@ -1,0 +1,64 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "updateCartAttributes",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/inwib2c_updateCartAttributes/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "updateCartAttributes",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/inwib2c_updateCartAttributes/Procedure",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "ConditionIfSIM",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/inwib2c_updateCartAttributes/Procedure/ConditionIfSIM",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "ConditionIfSIM",
+    "%vlocity_namespace%__ParentElementType__c": "Conditional Block",
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "additionalInput": {
+            "articleCode": "%GetArticleLabel:articleLabel%",
+            "icc": "%inwiB2C_Icc__c%",
+            "id": "%getcartlines:OLI:Id%",
+            "imsi": "%inwiB2C_imsi__c%",
+            "ki": "%inwiB2C_ki__c%",
+            "mdn": "%inwiB2C_Mdn__c%",
+            "ocsId": "%inwiB2C_SimOCSID__c%",
+            "preactivationProfileIn": "%inwiB2C_ProfileId__c%",
+            "puk": "%inwiB2C_puk__c%"
+        },
+        "additionalOutput": {
+        },
+        "bundle": "inwiB2C_SetSIMAttributes",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "executionConditionalFormula": "getcartlines:OLI:ProductCode=='INWIB2C_OFFERING_SIM'",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "failureResponse": {
+        },
+        "label": "DataRaptorPostAction1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "returnOnlyAdditionalOutput": false,
+        "returnOnlyFailureResponse": false,
+        "sendJSONNode": "",
+        "sendJSONPath": "",
+        "sendOnlyAdditionalInput": true,
+        "show": null,
+        "useFormulas": true
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "DataRaptor Post Action",
+    "CurrencyIsoCode": "MAD",
+    "Name": "updateSIM",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/inwib2c_updateCartAttributes/Procedure/updateSIM"
+}

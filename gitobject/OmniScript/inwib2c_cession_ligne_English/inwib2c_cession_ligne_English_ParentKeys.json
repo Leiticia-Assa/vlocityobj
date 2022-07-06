@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DRT_TimeStamp",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwib2c_get_billing_accounts",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/inwib2c_update_orderitem_billing_account"
+]

@@ -1,0 +1,9 @@
+[
+    "DataRaptor/InwiB2C_DREGetOrderLines",
+    "DataRaptor/inwiB2C_SetMDNAttributes",
+    "DataRaptor/inwiB2C_SetOfferAttributes",
+    "DataRaptor/inwiB2C_SetSIMAttributes",
+    "DataRaptor/inwiB2C_getArticleLabel",
+    "DataRaptor/inwiB2C_insertCreateContractEvent",
+    "DataRaptor/inwiB2C_updateOrderStatus"
+]

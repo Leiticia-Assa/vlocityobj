@@ -1,0 +1,67 @@
+{
+    "body": {
+        "CSCreatePaymentInteraction": [
+            {
+                "CSPayment": {
+                    "CSAmount": {
+                        "amountPT": 20,
+                        "amountTI": 20,
+                        "amountVAT": 0,
+                        "discountedAmount": 20
+                    },
+                    "CSOrder": {
+                        "CSCustomer": {
+                            "CSIdentification": {
+                                "code": "",
+                                "type": "NIC"
+                            },
+                            "CSIndividualName": {
+                                "familyName": "",
+                                "firstName": ""
+                            },
+                            "CSMarketSegment": "B2C",
+                            "id": "99913883"
+                        },
+                        "CSOffer": [
+                            {
+                                "CSProduct": {
+                                    "code": "000056165"
+                                }
+                            }
+                        ]
+                    },
+                    "CSPaymentMethod": {
+                        "POS": "CPD11",
+                        "bankAccount": "",
+                        "bankCheckDueDate": "",
+                        "bankCheckID": "",
+                        "bankCity": "",
+                        "bankCode": "",
+                        "bankKey": "",
+                        "bankName": "",
+                        "businessUnit": "CPD01",
+                        "mode": "CS",
+                        "tpeCode": ""
+                    },
+                    "CSPaymentReference": {
+                        "creatorReference": "80126000006zR0yAAE",
+                        "pspReference": ""
+                    },
+                    "channel": "",
+                    "creationDate": "2021-06-10T11:26:18",
+                    "creator": "sara.asmlal@community.uat",
+                    "type": "TERMINAL_PAYMENT"
+                }
+            }
+        ],
+        "CSOperationInfo": {
+            "channel": "SF",
+            "user": "sara.asmlal@community.uat",
+            "uuid": "7f0d8524-9d54-b3a4-7465-c8409f7e0143"
+        }
+    },
+    "endpoint": "callout:SOA_URL/CSPaymentMgm/RegisterPaymentMgm/createPayment",
+    "headers": {
+        "content-type": "application/json"
+    }
+}

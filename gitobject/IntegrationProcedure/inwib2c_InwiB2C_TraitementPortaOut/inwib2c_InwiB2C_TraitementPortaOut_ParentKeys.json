@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_GetOrderItemsIdsByOrderId",
+    "DataRaptor/InwiB2C_SetOrderDisconnect",
+    "DataRaptor/InwiB2C_UpdatePortaOutFields",
+    "DataRaptor/InwiB2C_UpdateSMOInfoAPI",
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_DRERequestTraceAPI",
+    "DataRaptor/inwiB2C_PostOrderSubscription"
+]

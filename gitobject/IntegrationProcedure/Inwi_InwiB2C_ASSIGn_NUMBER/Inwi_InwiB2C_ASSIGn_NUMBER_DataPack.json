@@ -1,0 +1,30 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "Mettre jour le statut du numéro dans le system peoplesoft avant l'achevement de la commande",
+    "%vlocity_namespace%__CustomJavaScript__c": "Inwi_InwiB2C_ASSIGn_NUMBER_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_DataRaptorExtracFRLIds.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_DataRaptorExtractMDN.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_Getoldmdnandicc.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_InwiB2C-DRT-ASSIGNNUMBER.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_HTTPActionAssignNumber.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_SoaResponse.json",
+        "Inwi_InwiB2C_ASSIGn_NUMBER_Element_ResponseAction.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "Inwi_InwiB2C_ASSIGn_NUMBER",
+    "%vlocity_namespace%__PropertySet__c": "Inwi_InwiB2C_ASSIGn_NUMBER_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "InwiB2C_ASSIGn_NUMBER",
+    "%vlocity_namespace%__Type__c": "Inwi",
+    "CurrencyIsoCode": "MAD",
+    "Name": "InwiB2C_ASSIGN_NUMBER",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_ASSIGn_NUMBER/Procedure"
+}

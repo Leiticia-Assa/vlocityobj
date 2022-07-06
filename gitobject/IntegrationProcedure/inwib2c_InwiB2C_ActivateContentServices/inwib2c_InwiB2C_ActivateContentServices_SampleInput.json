@@ -1,0 +1,14 @@
+{
+    "applyFee": "false",
+    "billingAccountid": "12321968465",
+    "feeAmount": "12.9",
+    "mdn": "212678866117",
+    "productOrderItems": [
+        {
+            "combination_id": "1423",
+            "combination_price": "330"
+        }
+    ],
+    "profile_id": "84001",
+    "reservationToken": "INS001304843242"
+}

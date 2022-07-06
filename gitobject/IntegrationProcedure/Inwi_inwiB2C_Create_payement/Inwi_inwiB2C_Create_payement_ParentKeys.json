@@ -1,0 +1,9 @@
+[
+    "DataRaptor/InwiB2C_CSPaymentPayXIteration",
+    "DataRaptor/InwiB2C_CSProductPayXIteration",
+    "DataRaptor/InwiB2C_DREGetOrderInfoPayX",
+    "DataRaptor/InwiB2C_DREGetOrderLineInfo",
+    "DataRaptor/InwiB2C_DRPostOrderPaymentInfo",
+    "DataRaptor/InwiB2C_DRTGetOrderLineInfo",
+    "DataRaptor/InwiB2C_DRTMergePAYXRequest"
+]

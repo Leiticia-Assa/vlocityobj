@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C_DRE_getServiceRoamingStatus",
+    "DataRaptor/INWIB2C_DRE_getSubscriptionFromMdn",
+    "DataRaptor/InwiB2C_DRPTraceAPI"
+]

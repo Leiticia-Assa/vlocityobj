@@ -1,0 +1,6 @@
+[
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetinforFromBilling",
+    "DataRaptor/inwiB2C_RecuPaiementInvoice",
+    "IntegrationProcedure/Inwi_Inwib2CInvoiceByBillingAccount"
+]

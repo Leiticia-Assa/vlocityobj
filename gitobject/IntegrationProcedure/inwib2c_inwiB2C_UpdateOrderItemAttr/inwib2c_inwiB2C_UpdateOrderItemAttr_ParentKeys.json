@@ -1,0 +1,11 @@
+[
+    "DataRaptor/InwiB2C_DRT-InsertMDN",
+    "DataRaptor/InwiB2C_DRT_MergMdnSIMWIN",
+    "DataRaptor/InwiB2C_DRT_MergMdnSim",
+    "DataRaptor/InwiB2C_DRT_OutputMDN",
+    "DataRaptor/InwiB2C_DRT_inputMDN",
+    "DataRaptor/InwiB2C_GetMsisdnFromSim",
+    "DataRaptor/InwiB2C_GetOcsIdFromSim",
+    "DataRaptor/InwiB2C_UpdateMsisdn",
+    "DataRaptor/InwiB2C_UpdateOcsidwin"
+]

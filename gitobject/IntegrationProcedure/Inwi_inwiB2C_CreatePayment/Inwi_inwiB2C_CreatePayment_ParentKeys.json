@@ -1,0 +1,19 @@
+[
+    "DataRaptor/InwiB2C_CSCreatePaymentPayXIteration",
+    "DataRaptor/InwiB2C_CSProductPayX",
+    "DataRaptor/InwiB2C_DREGetOffersInfos",
+    "DataRaptor/InwiB2C_DREGetOffersInfosCaution",
+    "DataRaptor/InwiB2C_DREGetOrderInfoPayX",
+    "DataRaptor/InwiB2C_DREGetOrderLineInfo",
+    "DataRaptor/InwiB2C_DREGetOrderLineInfoFromOffer",
+    "DataRaptor/InwiB2C_DREGetTerminalInfos",
+    "DataRaptor/InwiB2C_DRPostOrderItemPaymentInfo",
+    "DataRaptor/InwiB2C_DRTCSPaymentNode",
+    "DataRaptor/InwiB2C_DRTCautionToPay",
+    "DataRaptor/InwiB2C_DRTGetOffersInfos",
+    "DataRaptor/InwiB2C_DRTGetOffersInfosToPay",
+    "DataRaptor/InwiB2C_DRTGetOrderLineInfo",
+    "DataRaptor/InwiB2C_DRTMergeCaution",
+    "DataRaptor/InwiB2C_DRTMergePAYXRequest2",
+    "DataRaptor/inwiB2C_DRTOrdeItemPaymentInfo"
+]

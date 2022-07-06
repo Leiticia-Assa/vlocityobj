@@ -1,0 +1,17 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/INWIB2C_UpdateMotifInOrder",
+    "DataRaptor/INWIB2C_UpdateOldIMEI",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_DRT_TimeStamp",
+    "DataRaptor/InwiB2C_GetIMEIFromOrder",
+    "DataRaptor/InwiB2C_check_AgenceInwi",
+    "DataRaptor/inwiB2C_CreateBusinessEventValidation",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_GetOrderItemsByOrderId",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_UpdateTerminalOrderItem",
+    "DataRaptor/inwiB2C_checkAssetInventoryItems",
+    "DataRaptor/inwiB2C_updateOrderStatus"
+]

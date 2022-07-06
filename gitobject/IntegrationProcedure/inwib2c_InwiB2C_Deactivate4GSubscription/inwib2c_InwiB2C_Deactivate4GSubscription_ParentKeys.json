@@ -1,0 +1,12 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_GetOrderItemsIdsByOrderId",
+    "DataRaptor/InwiB2C_SetOrderDisconnect",
+    "DataRaptor/InwiB2C_UpdateMigration2G4G",
+    "DataRaptor/InwiB2C_UpdateObjectMigration2G4GFields",
+    "DataRaptor/InwiB2C_UpdateOrderMigration2G4G",
+    "DataRaptor/InwiB2C_UpdateSMOInfoAPI",
+    "DataRaptor/InwiB2C_UpdateSubscriptionForMigration2G4G",
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_PostOrderSubscription"
+]

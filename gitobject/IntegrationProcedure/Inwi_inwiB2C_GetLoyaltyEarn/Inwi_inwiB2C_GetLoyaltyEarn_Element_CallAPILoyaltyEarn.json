@@ -1,0 +1,64 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "inwiB2C_GetLoyaltyEarn",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/inwiB2C_GetLoyaltyEarn/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "additionalInput": {
+        },
+        "additionalOutput": {
+        },
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "failureResponse": {
+        },
+        "label": "HTTPAction1",
+        "namedCredential": "SOA_URL",
+        "postActionLogging": "",
+        "preActionLogging": "%endpoint%",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "restMethod": "GET",
+        "restOptions": {
+            "clientCertificateName": "",
+            "headers": {
+                "Canal": "SF",
+                "UUID": 123,
+                "User": "SF"
+            },
+            "isCompressed": false,
+            "params": {
+                "accountId": "%GetAccountNumber:AccountNumber%",
+                "endDate": "%changeDateFormat:formattedEndDate%",
+                "startDate": "%changeDateFormat:formattedStartDate%"
+            },
+            "sendBody": false,
+            "timeout": 0,
+            "xmlEscapeResponse": false
+        },
+        "restPath": "/inwi-api/loyaltyManagement/v1/loyaltyAccount/getPointsAwardHistory",
+        "retryCount": 0,
+        "returnOnlyAdditionalOutput": false,
+        "returnOnlyFailureResponse": false,
+        "sendJSONNode": "",
+        "sendJSONPath": "",
+        "sendOnlyAdditionalInput": false,
+        "show": null,
+        "type": "Integration",
+        "useFormulas": true
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Rest Action",
+    "CurrencyIsoCode": "MAD",
+    "Name": "CallAPILoyaltyEarn",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Inwi/inwiB2C_GetLoyaltyEarn/Procedure/CallAPILoyaltyEarn"
+}

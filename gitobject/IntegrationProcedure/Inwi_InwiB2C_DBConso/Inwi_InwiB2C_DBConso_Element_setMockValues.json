@@ -1,0 +1,178 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "InwiB2C_GetDBConso",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_DBConso/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "mockResult": {
+                "bucket": [
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "5",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "124523450",
+                            "M_AMOUNT_CEILING": "0",
+                            "M_AMOUNT_CON": "0.03",
+                            "M_CALL_TYPE": "Voice",
+                            "M_FLAG_CEILING": "N",
+                            "M_LINE_ID": "212624630763",
+                            "M_LISTEBAL": "3000:0.03;2100:0.03;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "Voice_OC"
+                        }
+                    },
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "4",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "34",
+                            "M_AMOUNT_CEILING": "0",
+                            "M_AMOUNT_CON": "0.05",
+                            "M_CALL_TYPE": "Voice",
+                            "M_FLAG_CEILING": "N",
+                            "M_LINE_ID": "212656126668",
+                            "M_LISTEBAL": "3000:0.05;2209:0.03;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "Voice_OC"
+                        }
+                    },
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "0",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "1000",
+                            "M_AMOUNT_CEILING": "/toGenerateEmptyTag/",
+                            "M_AMOUNT_CON": "11",
+                            "M_CALL_TYPE": "SMS",
+                            "M_FLAG_CEILING": "/toGenerateEmptyTag/",
+                            "M_LINE_ID": "212601450760",
+                            "M_LISTEBAL": "5041:1;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "SMS_OC"
+                        }
+                    },
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "0",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "0",
+                            "M_AMOUNT_CEILING": "/toGenerateEmptyTag/",
+                            "M_AMOUNT_CON": "0",
+                            "M_CALL_TYPE": "SMS",
+                            "M_FLAG_CEILING": "/toGenerateEmptyTag/",
+                            "M_LINE_ID": "212694702736",
+                            "M_LISTEBAL": "5091:1;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "SMS_OC"
+                        }
+                    },
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "0",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "0",
+                            "M_AMOUNT_CEILING": "/toGenerateEmptyTag/",
+                            "M_AMOUNT_CON": "0",
+                            "M_CALL_TYPE": "SMS",
+                            "M_FLAG_CEILING": "/toGenerateEmptyTag/",
+                            "M_LINE_ID": "212677483436",
+                            "M_LISTEBAL": "5041:1;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "SMS_OC"
+                        }
+                    },
+                    {
+                        "bucketBalance": [
+                        ],
+                        "bucketCounter": [
+                        ],
+                        "product": [
+                        ],
+                        "properties": {
+                            "CALL_DIRECTION": "OC",
+                            "CANAL": "/toGenerateEmptyTag/",
+                            "DURATION": "30",
+                            "FNFFLAG": "0",
+                            "GPRS_VOLUME": "0",
+                            "M_AMOUNT_CEILING": "0",
+                            "M_AMOUNT_CON": "0.07",
+                            "M_CALL_TYPE": "Voice",
+                            "M_FLAG_CEILING": "N",
+                            "M_LINE_ID": "212661282856",
+                            "M_LISTEBAL": "3000:0.07;",
+                            "M_SERVICE_NAME": "SERVICE INCONNU",
+                            "M_START_DATE": "07-APR-19",
+                            "M_TYPE_CONSO": "Voice_OC"
+                        }
+                    }
+                ]
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "setMockValues",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_DBConso/Procedure/setMockValues"
+}

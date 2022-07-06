@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_DR_UpdateSubscriptionStatusAndAttributes",
+    "DataRaptor/InwiB2C_InsertSubsMassNotificationEvent",
+    "DataRaptor/InwiB2C_UpdateSubsMassProcessingFields"
+]

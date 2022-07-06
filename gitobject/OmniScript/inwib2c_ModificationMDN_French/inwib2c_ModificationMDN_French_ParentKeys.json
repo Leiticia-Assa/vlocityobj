@@ -1,0 +1,23 @@
+[
+    "DataRaptor/INWIB2C_GetAssetAccountFromSubscription",
+    "DataRaptor/INWIB2C_UpdateOldMdn",
+    "DataRaptor/InwiB2C_BuildSubProductActivationBody",
+    "DataRaptor/InwiB2C_CancelOrder",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_DR_UpdateOrderFieldsModMdn",
+    "DataRaptor/InwiB2C_GetMDNTypeOrderItemId",
+    "DataRaptor/InwiB2C_GetOrdersEnCoursGoldNumber",
+    "DataRaptor/InwiB2C_GetPriceChangeMdnByType",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_GetOrderMdnTypeAttribute",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_SetStatusOrder",
+    "DataRaptor/inwiB2C_checkAssetInventoryItems",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/Inwi_InwiB2C_SubProductsActivation",
+    "IntegrationProcedure/Inwi_InwiB2_UnlockMdn",
+    "IntegrationProcedure/Inwi_inwiB2C_GetBalances",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

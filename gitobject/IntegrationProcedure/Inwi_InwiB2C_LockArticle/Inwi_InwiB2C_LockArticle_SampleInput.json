@@ -1,0 +1,17 @@
+{
+    "handset": [
+        {
+            "code": "000012345",
+            "offerType": "FM",
+            "orderType": "SMO",
+            "quantity": "1",
+            "region": "PGSM",
+            "serialNumber": "892128510050201913",
+            "technology": "GSM",
+            "type": "ICCID"
+        }
+    ],
+    "operation": "RS",
+    "orderId": "8012500000285oFAAQ",
+    "username": "Djamel"
+}

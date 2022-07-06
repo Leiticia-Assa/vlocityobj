@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "DataRaptor/InwiB2C_DR_TransformSubscriptionInfos",
+    "DataRaptor/InwiB2C_InsertHistoryAction"
+]

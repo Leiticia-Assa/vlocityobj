@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C-DRT-PrepareDataForRQ23",
+    "DataRaptor/InwiB2C-DRE-GetInfoStock",
+    "DataRaptor/InwiB2C-DRE-GetRootOrderItem",
+    "DataRaptor/InwiB2C-DRE_GetFRLIds"
+]

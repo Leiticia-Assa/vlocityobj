@@ -1,0 +1,14 @@
+{
+    "CSOperationInfo": {
+        "businessUnit": "CPD",
+        "channel": "SPN",
+        "user": "djamel.lekhbassene@dev2",
+        "uuid": "73fc2b9c-1ed7-0c2d-b0b0-3a732cb1d712"
+    },
+    "CSUpdatePortabilityStatus": {
+        "effectiveDate": "20/08/2020",
+        "errorDesc": "Numéro résilié et effectivement non opérationnel",
+        "portabilityID": "0000000001",
+        "status": "APOR"
+    }
+}

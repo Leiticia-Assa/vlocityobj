@@ -1,0 +1,30 @@
+{
+    "CSCreateBillingAccount": {
+        "account": {
+            "name": "TestAPI"
+        },
+        "party": {
+            "clientId": "0013M00000yqoJgQAI"
+        },
+        "paymentMethod": {
+            "Cle": "72",
+            "code_banque": "230",
+            "code_guichet": "810",
+            "name": "Prélèvement automatique (RIB)",
+            "name_agence": "agence casa",
+            "num_compte": "4037514211015800"
+        },
+        "urbanPropertyAddress": {
+            "address": "AGENCE POSTE MAROC CASA 2 MARS",
+            "city": "CASABLANCA",
+            "countryCode": "MAR",
+            "region": "Grand Casablanca",
+            "zipCode": "25785"
+        }
+    },
+    "CSOperationInfo": {
+        "channel": "",
+        "user": "",
+        "uuid": ""
+    }
+}

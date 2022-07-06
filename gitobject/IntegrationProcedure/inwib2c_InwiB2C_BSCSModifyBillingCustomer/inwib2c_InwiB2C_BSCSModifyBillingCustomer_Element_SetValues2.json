@@ -1,0 +1,61 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "InwiB2C_BSCSModifyBillingCustomer",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_BSCSModifyBillingCustomer/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "input": {
+                "address": {
+                    "address": "Sidi Maarouf",
+                    "address2": "comple adresse",
+                    "city": "Casablanca",
+                    "countryCode": "MAR",
+                    "encodingLanguage": "FR",
+                    "region": "Grand Casablanca",
+                    "stage": "986546",
+                    "zipCode": "52000"
+                },
+                "contact": {
+                    "email": "aaa@aaa.com",
+                    "phone": "21299999999",
+                    "phoneNumber": "212666446666"
+                },
+                "customerInfo": {
+                    "birthDate": "11-12-1986",
+                    "costCenterID": "11",
+                    "etat_civil": "MAR",
+                    "familyName": "El Alami",
+                    "id": "99918022",
+                    "legalName": "Hamza",
+                    "nationality": "MAR",
+                    "profession": "AVOCAT"
+                },
+                "identification": {
+                    "identityNumber": "JUIN",
+                    "typeIdentity": "CIN"
+                }
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues2",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetValues2",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_BSCSModifyBillingCustomer/Procedure/SetValues2"
+}

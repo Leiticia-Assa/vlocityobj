@@ -1,0 +1,29 @@
+{
+    "%vlocity_namespace%__CustomJavaScript__c": "Inwi_Inwib2CInvoiceByBillingAccount_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_INWIB2CGetBillingAccount.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_INWIB2CBillingAccountTransforme.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_HTTPSearchInvoice.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_SetValues2.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_INWIB2CBillingAccountTransformeResponse.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_InWIB2CBillingAccountTransformresponseV2.json",
+        "Inwi_Inwib2CInvoiceByBillingAccount_Element_ResponseAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "Inwi_Inwib2CInvoiceByBillingAccount",
+    "%vlocity_namespace%__PropertySet__c": "Inwi_Inwib2CInvoiceByBillingAccount_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "Inwib2CInvoiceByBillingAccount",
+    "%vlocity_namespace%__Type__c": "Inwi",
+    "CurrencyIsoCode": "MAD",
+    "Name": "Inwib2CInvoiceByBillingAccount",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/Inwib2CInvoiceByBillingAccount/Procedure"
+}

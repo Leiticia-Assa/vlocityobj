@@ -1,0 +1,19 @@
+{
+    "Id": "0013M000010KlKRQA0",
+    "IdAddress": "a6O3M0000008W5UUAU",
+    "SetBAInfo": "",
+    "newAddress": {
+        "ComplementAdress": "Rue El Menzeh benaamir",
+        "Etage": "3",
+        "NApp": "14",
+        "NomImm": "lina",
+        "NumImm": "33",
+        "Pays": "Maroc",
+        "Postal": "10000",
+        "PrecisionQuartier": "Quartie4",
+        "Quartier": "",
+        "Region": "Rabat-Sale, Zemmour, Zaer",
+        "Rue": "Rue El Menzeh",
+        "Ville": "RABAT"
+    }
+}

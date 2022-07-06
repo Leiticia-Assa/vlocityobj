@@ -1,0 +1,83 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "changeProfile",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_changeProfile/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "changeProfile",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_changeProfile/Procedure",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "theDifferentBlock",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_changeProfile/Procedure/theDifferentBlock",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "theDifferentBlock",
+    "%vlocity_namespace%__ParentElementType__c": "Conditional Block",
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "additionalInput": {
+            "input:cartId": "%CreateCart_diff:records:cartId%",
+            "input:hierarchy": -1,
+            "input:includeAttachment": false,
+            "input:items": "%targetOffers:records|1:actions:replaceoffers:remote:params:items%",
+            "input:lastRecordId": null,
+            "input:methodName": "replaceOffers",
+            "input:orderid": "%CreateCart_diff:records:cartId%",
+            "input:pagesize": 5,
+            "input:price": true,
+            "input:query": null,
+            "input:replaceIntentSpecification": {
+                "SourceIntent": [
+                    {
+                        "Action": "Replace",
+                        "ActionParameter": "%targetOffers:records|1:actions:replaceoffers:remote:params:items|1:itemId%",
+                        "ActionParameterProductId": "%targetOffers:records|1:productId%",
+                        "GroupId": 1,
+                        "LineItemId": "%ExistingOffer:records|1:itemId%",
+                        "ProductId": "%ExistingOffer:records|1:productId%",
+                        "actionLabel": "Replace"
+                    }
+                ],
+                "TargetIntent": {
+                    "1": "%targetOffers:records|1:actions:replaceoffers:remote:params:items|1:itemId%"
+                }
+            },
+            "input:step": "replaceoffer",
+            "input:validate": true
+        },
+        "additionalOutput": {
+        },
+        "bundle": "InwiB2C_TriggerReplaceOfferEvent",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "failureResponse": {
+        },
+        "label": "DataRaptorPostAction4",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "returnOnlyAdditionalOutput": false,
+        "returnOnlyFailureResponse": false,
+        "sendJSONNode": "input",
+        "sendJSONPath": "",
+        "sendOnlyAdditionalInput": true,
+        "show": null,
+        "useFormulas": true
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "DataRaptor Post Action",
+    "CurrencyIsoCode": "MAD",
+    "Name": "TriggerReplaceOfferEvent",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2C_changeProfile/Procedure/TriggerReplaceOfferEvent"
+}

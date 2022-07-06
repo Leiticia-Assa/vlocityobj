@@ -1,0 +1,9 @@
+[
+    "DataRaptor/INWIB2C-DRE-GetFRL_OSS_MODIF",
+    "DataRaptor/INWIB2C-DRT-OSS-MODIF",
+    "DataRaptor/InwiB2C-DRE-FRLIds",
+    "DataRaptor/InwiB2C-DRE-GetInvOfProfile",
+    "DataRaptor/InwiB2C-DRE-GetOldMdnForModifyOption",
+    "DataRaptor/InwiB2C-DRE-GetOldProfileForModifyOpt",
+    "DataRaptor/inwiB2C_DRE_GetMigrationTypeFromOrder"
+]

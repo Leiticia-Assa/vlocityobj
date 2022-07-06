@@ -1,0 +1,5 @@
+[
+    "DataRaptor/inwiB2C_InsertInDeferredMig",
+    "DataRaptor/inwiB2C_UpdateOrchestrationItemStatus",
+    "DataRaptor/inwiB2C_getCycleDeFacturation"
+]

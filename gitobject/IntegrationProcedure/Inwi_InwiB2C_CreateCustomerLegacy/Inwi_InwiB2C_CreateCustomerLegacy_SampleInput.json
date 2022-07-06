@@ -1,0 +1,33 @@
+{
+    "address": {
+        "address": "Sidi Maarouf",
+        "bilingAdress": false,
+        "city": "Casablanca",
+        "countryCode": "MAR",
+        "principal": true,
+        "region": "Grand Casablanca",
+        "zipCode": "52000"
+    },
+    "contact": {
+        "email": "aaa@aaa.com",
+        "phoneNumber": "212638958385"
+    },
+    "customerInfo": {
+        "birthDate": "12-12-1981",
+        "familyName": "Ikhebassene",
+        "gender": "MME",
+        "language": "ARA",
+        "legalName": "Djamel",
+        "nationality": "MAR"
+    },
+    "identification": {
+        "identityNumber": "D55880",
+        "typeIdentity": "CIN"
+    },
+    "individualPost": {
+        "attributes": {
+            "IS_ADSL_INTERESTED": true,
+            "PREFERRED_CONTACT_CHANNEL": "SMS"
+        }
+    }
+}

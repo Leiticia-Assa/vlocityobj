@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "IntegrationProcedure/Inwi_InwiB2C_GetDBHistoRecharge",
+    "IntegrationProcedure/inwib2c_HistoriqueRechV2"
+]

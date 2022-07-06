@@ -1,0 +1,28 @@
+{
+    "%vlocity_namespace%__CustomJavaScript__c": "Inwi_InwiB2C_statut_ligne_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Inwi_InwiB2C_statut_ligne_Element_getMDN.json",
+        "Inwi_InwiB2C_statut_ligne_Element_HTTPAction1.json",
+        "Inwi_InwiB2C_statut_ligne_Element_GetIdProfil.json",
+        "Inwi_InwiB2C_statut_ligne_Element_GetLibelle.json",
+        "Inwi_InwiB2C_statut_ligne_Element_getInfo.json",
+        "Inwi_InwiB2C_statut_ligne_Element_ResponseAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "Inwi_InwiB2C_statut_ligne",
+    "%vlocity_namespace%__PropertySet__c": "Inwi_InwiB2C_statut_ligne_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "InwiB2C_statut_ligne",
+    "%vlocity_namespace%__Type__c": "Inwi",
+    "CurrencyIsoCode": "MAD",
+    "Name": "InwiB2C_statut_ligne",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/InwiB2C_statut_ligne/Procedure"
+}

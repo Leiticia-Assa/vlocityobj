@@ -1,0 +1,14 @@
+[
+    "DataRaptor/InwiB2C_OS_ContactInfo",
+    "DataRaptor/Inwi_B2C_OS_IdExtract",
+    "DataRaptor/Inwi_B2C_OmniScript_AddCommentCase",
+    "DataRaptor/Inwi_B2C_OmniScript_AllSubscriptions",
+    "DataRaptor/Inwi_B2C_OmniScript_Contact",
+    "DataRaptor/Inwi_B2C_OmniScript_InProgressCase72h",
+    "DataRaptor/Inwi_B2C_OmniScript_InProgressCase72hContact",
+    "DataRaptor/Inwi_B2C_OmniScript_InProgressCase72hFromSub",
+    "DataRaptor/Inwi_B2C_OmniScript_UpdateCaseStatus",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "Document/CACABCCJA0fa394db70ac418097b328d25b5179dc",
+    "Document/CACABCCJAb2ce15542c2d406b880c0edf7d8f2098"
+]

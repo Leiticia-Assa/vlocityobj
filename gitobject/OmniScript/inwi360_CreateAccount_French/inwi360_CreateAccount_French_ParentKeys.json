@@ -1,0 +1,10 @@
+[
+    "DataRaptor/InwiB2C_GetAccountNumberField",
+    "DataRaptor/InwiB2C_setAccountIdInContact",
+    "DataRaptor/InwiB2C_setCreateCustomerLegacyInput",
+    "DataRaptor/Inwi_B2C_CreateAccount",
+    "DataRaptor/Inwi_B2C_CreateAddress",
+    "DataRaptor/Inwi_B2C_CreateContactForAccount",
+    "DataRaptor/Inwi_B2C_getAccountByCIN",
+    "IntegrationProcedure/Inwi_InwiB2C_CreateCustomerLegacy"
+]

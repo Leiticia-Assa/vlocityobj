@@ -1,0 +1,18 @@
+{
+    "thewholeupdate": {
+        "fieldstoupdate": {
+            "IdAddress": "a5t25000000D0OLAA0",
+            "Nom": "testtt22",
+            "Prenom": "test22",
+            "Quartier": "",
+            "generatePdf": false
+        },
+        "id": "80025000007p9e4AAA",
+        "ordersToUpdate": [
+            {
+                "orderNumber": "00002873",
+                "statut": "inwiB2C_Activee"
+            }
+        ]
+    }
+}

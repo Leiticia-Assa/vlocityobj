@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C_GetPortedMdnToAssign",
+    "DataRaptor/InwiB2C-DRE-GetPortMdnToInsert",
+    "DataRaptor/InwiB2C-DRE_GetFRLIds",
+    "IntegrationProcedure/Inwi_INWIB2C_getMDNStatus"
+]

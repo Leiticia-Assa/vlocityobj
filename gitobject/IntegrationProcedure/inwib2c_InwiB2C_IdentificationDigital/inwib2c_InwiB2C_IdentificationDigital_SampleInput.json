@@ -1,0 +1,25 @@
+{
+    "CSIdentification": {
+        "CodePostale": "30000",
+        "ComplementAdresse": "3 maarif",
+        "ComplementAdresse2": " 4 mars",
+        "DateDeNaissance": "10/02/1970",
+        "Email": "elbouchouki@gmail.com",
+        "Nom": "elbouchouki",
+        "NumCIN": "AZ123",
+        "Pays": "MAR",
+        "Prenom": "badr",
+        "Quartier": "",
+        "Region": "Grand Casablanca",
+        "Segmentation2": "Silver",
+        "Sexe": "Monsieur",
+        "TypeCIN": "CIN",
+        "Ville": "CASABLANCA",
+        "mdn": "212648020554"
+    },
+    "CSOperationInfo": {
+        "channel": "MYINWI",
+        "user": "badr.elbouchouki",
+        "uuid": "134345578b"
+    }
+}

@@ -1,0 +1,8 @@
+[
+    "DataRaptor/InwiB2C_CheckSubscriptions",
+    "DataRaptor/inwiB2C_getNoEligiblesSubscriptions",
+    "IntegrationProcedure/inwib2c_InwiB2C_CreateMassiveOperation",
+    "IntegrationProcedure/inwib2c_InwiB2C_UpdateTRAITEMENTMASSIF_FICHIER",
+    "IntegrationProcedure/inwib2c_inwiB2C_InsertInSubsRehaSusp",
+    "IntegrationProcedure/inwib2c_inwiB2C_InsertInSubsResil"
+]

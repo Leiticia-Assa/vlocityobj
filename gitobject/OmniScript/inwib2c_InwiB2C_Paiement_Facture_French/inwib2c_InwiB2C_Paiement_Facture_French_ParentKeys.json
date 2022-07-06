@@ -1,0 +1,16 @@
+[
+    "DataRaptor/InwiB2C_DR_SearchBillingAccountByCIN",
+    "DataRaptor/InwiB2C_DR_getBillingAccounts",
+    "DataRaptor/InwiB2C_GetTPEAuthorizationInfo",
+    "DataRaptor/inwiB2C_DRT_SelectedInvoices",
+    "DataRaptor/inwiB2C_DR_SearchBillingAccountByBillingAccountNumber",
+    "DataRaptor/inwiB2C_DR_SearchBillingAccountByMDN",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_getAccountBillingDetails",
+    "DataRaptor/inwiB2C_getPayedInvoices",
+    "IntegrationProcedure/Inwi_Inwib2CInvoiceByBillingAccount",
+    "IntegrationProcedure/inwib2c_inwiB2C_Create_Payment_Invoices",
+    "IntegrationProcedure/inwib2c_inwiB2C_Create_payement_FreeAmount",
+    "IntegrationProcedure/inwib2c_inwiB2C_GetBillingAccountbyInvoice",
+    "IntegrationProcedure/inwib2c_inwiBC_Create_Payment_Action"
+]

@@ -1,0 +1,32 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "InwiB2B-StubDBConso",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Inwi/InwiB2B-StubDBConso/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "consoType": "%consoType%",
+            "jsonString": "{  \"bucket\": [    {      \"bucketBalance\": [],      \"bucketCounter\": [],      \"product\": [],      \"properties\": {        \"FNFFLAG\": \"0\",        \"M_TYPE_CONSO\": \"Voice_OC\",        \"M_CALL_TYPE\": \"Voice\",        \"M_LISTEBAL\": \"3000:0.03;3001:0.23;\",        \"M_LINE_ID\": \"212624630763\",        \"M_SERVICE_NAME\": \"SERVICE INCONNU\",        \"M_AMOUNT_CON\": \"0.03\",        \"M_START_DATE\": \"07-APR-19\",        \"GPRS_VOLUME\": \"0\",        \"CANAL\": \"/toGenerateEmptyTag/\",        \"CALL_DIRECTION\": \"OC\",        \"M_FLAG_CEILING\": \"N\",        \"M_AMOUNT_CEILING\": \"0\",        \"DURATION\": \"5\"      }    },    {      \"bucketBalance\": [],      \"bucketCounter\": [],      \"product\": [],      \"properties\": {        \"FNFFLAG\": \"0\",        \"M_TYPE_CONSO\": \"SMS_OC\",        \"M_CALL_TYPE\": \"SMS\",        \"M_LISTEBAL\": \"5041:1;5042:10;\",        \"M_LINE_ID\": \"212601450760\",        \"M_SERVICE_NAME\": \"SERVICE INCONNU\",        \"M_AMOUNT_CON\": \"0\",        \"M_START_DATE\": \"07-APR-19\",        \"GPRS_VOLUME\": \"0\",        \"CANAL\": \"/toGenerateEmptyTag/\",        \"CALL_DIRECTION\": \"OC\",        \"M_FLAG_CEILING\": \"/toGenerateEmptyTag/\",        \"M_AMOUNT_CEILING\": \"/toGenerateEmptyTag/\",        \"DURATION\": \"0\"      }}  ]}"
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetValues1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Inwi/InwiB2B-StubDBConso/Procedure/SetValues1"
+}

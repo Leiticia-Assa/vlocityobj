@@ -1,0 +1,15 @@
+[
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/INWIB2C_DRP_UpdateNeedAppRequest",
+    "DataRaptor/InwiB2C_DRTRedirectionRetOffer",
+    "DataRaptor/InwiB2C_applyretentionoffer",
+    "DataRaptor/InwiB2C_cancelresilrequest",
+    "DataRaptor/Inwi_B2C_OmniScript_AllPostPayedSubscriptions",
+    "DataRaptor/Inwi_B2C_OmniScript_AllResiliationRequest",
+    "DataRaptor/inwiB2C_DREGetAccountInfoV2",
+    "IntegrationProcedure/Inwi_InwiB2C_SubProductsActivation",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES",
+    "IntegrationProcedure/inwib2c_InwiB2C-VIP-UpdateRetentionStatus",
+    "IntegrationProcedure/inwib2c_InwiB2C_ApplyRetentionOffer"
+]

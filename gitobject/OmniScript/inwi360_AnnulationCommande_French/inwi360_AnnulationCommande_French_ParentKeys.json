@@ -1,0 +1,14 @@
+[
+    "DataRaptor/InwiB2C_CancelOrder",
+    "DataRaptor/InwiB2C_CancelPaiement",
+    "DataRaptor/InwiB2C_DRERessourceFromOrders",
+    "DataRaptor/InwiB2C_DRTRessourceFromOrders",
+    "DataRaptor/InwiB2C_DR_GetMdnFromOrders",
+    "DataRaptor/InwiB2C_DR_GetOrderInfoPaiement",
+    "DataRaptor/InwiB2C_Exract_Order",
+    "DataRaptor/InwiB2C_GetchefAgence",
+    "DataRaptor/InwiB2C_UserInfo",
+    "IntegrationProcedure/Inwi_InwiB2C_UnLockArticle",
+    "IntegrationProcedure/Inwi_InwiB2_UnlockMdn",
+    "IntegrationProcedure/inwib2c_InwiB2C_CancelPaiement"
+]

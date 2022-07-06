@@ -1,0 +1,11 @@
+{
+    "billingAccountID": "10044256148",
+    "billingAccountTarget": [
+        {
+            "amount": 60,
+            "billingAccountTargetID": "1475763",
+            "refInvoice": "F1509064766"
+        }
+    ],
+    "transferType": "C"
+}

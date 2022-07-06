@@ -1,0 +1,5 @@
+[
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_InsertExecutePortaOutEvent",
+    "DataRaptor/inwiB2C_InsertExecuteTraitementSMOEvent"
+]

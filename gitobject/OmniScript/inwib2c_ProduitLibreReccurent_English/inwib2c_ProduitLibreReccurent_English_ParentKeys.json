@@ -1,0 +1,13 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_DRT_ProduitReccurent",
+    "DataRaptor/InwiB2C_DRT_TimeStamp",
+    "DataRaptor/InwiB2C_GetOIReccurent",
+    "DataRaptor/InwiB2C_GetProduitReccurent",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "IntegrationProcedure/inwib2c_UpdateOIProduitLibre",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

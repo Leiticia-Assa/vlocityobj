@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C-DRT-CHECKELIGWIN",
+    "DataRaptor/inwiB2C_DR_GetOrderCustomerInfo",
+    "IntegrationProcedure/Inwi_InwiB2C_GetAccess_TokenWin"
+]

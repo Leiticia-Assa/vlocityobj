@@ -1,0 +1,7 @@
+[
+    "DataRaptor/INWIB2C-DR-ClientFromSubscription",
+    "DataRaptor/InwiB2C_Get_All_info_ligne",
+    "IntegrationProcedure/Inwi_InwiB2C_IP_GetSubscriptionInfo",
+    "IntegrationProcedure/Inwi_InwiB2C_Statut_endettement",
+    "IntegrationProcedure/Inwi_InwiB2C_statut_ligne"
+]

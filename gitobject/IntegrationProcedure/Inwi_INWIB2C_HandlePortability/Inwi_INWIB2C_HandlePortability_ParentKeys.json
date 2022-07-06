@@ -1,0 +1,8 @@
+[
+    "DataRaptor/INWIB2C-DRE-GETSUBSCRIPTIONFROMASSET",
+    "DataRaptor/INWIB2C_DREGetMSISDNItemFromOrder",
+    "DataRaptor/INWIB2C_UppdateSMOPortaIn",
+    "DataRaptor/INWIB2C_updateOrderInformation",
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_PostOrderSubscription"
+]

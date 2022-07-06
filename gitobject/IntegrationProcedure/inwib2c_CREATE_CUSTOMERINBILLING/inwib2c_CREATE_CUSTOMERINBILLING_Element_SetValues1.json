@@ -1,0 +1,68 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "INWIB2C_CREATE_CUSTOMERINBILLING",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/CREATE_CUSTOMERINBILLING/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "body": {
+                "address": {
+                    "address": "AGENCE POSTE MAROC RABAT AL MANAL",
+                    "address2": "Maroc",
+                    "city": "RABAT",
+                    "countryCode": "MAR",
+                    "encodingLanguage": "FR",
+                    "pays": "Maroc",
+                    "region": "Rabat-Sale, Zemmour, Zaer",
+                    "stage": "00000",
+                    "zipCode": "10000"
+                },
+                "contact": {
+                    "email": "moundir.karim@gmail.com",
+                    "phoneNumber": "212661872355"
+                },
+                "customerInfo": {
+                    "ETAT_CIVIL": "CEL",
+                    "activity_area": "Assurances",
+                    "birthDate": "02-12-1990",
+                    "costCenterID": "11",
+                    "familyName": "Moundir",
+                    "gender": "M",
+                    "id": "0016j000020KyuX",
+                    "language": "Arabe",
+                    "legalName": "Amine",
+                    "marketsegment": "B2C",
+                    "nationality": "MAR",
+                    "orgID": "INWI",
+                    "priceGroupID": "1",
+                    "profession": "Agent immobilier",
+                    "type": "INDIVIDUAL"
+                },
+                "identification": {
+                    "identityNumber": "I717100",
+                    "typeIdentity": "CIN"
+                }
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetValues1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/CREATE_CUSTOMERINBILLING/Procedure/SetValues1"
+}

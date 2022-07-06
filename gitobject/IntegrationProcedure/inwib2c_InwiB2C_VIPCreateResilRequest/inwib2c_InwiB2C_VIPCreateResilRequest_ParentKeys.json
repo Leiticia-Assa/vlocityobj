@@ -1,0 +1,7 @@
+[
+    "DataRaptor/InwiB2C_DREGetExistingResilRequest",
+    "DataRaptor/InwiB2C_GetSenderForSendSMS",
+    "DataRaptor/InwiB2C_updatetagresilonsouscription",
+    "DataRaptor/Inwi_B2C_OmniScript_DRPCreateResilRequest",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo"
+]

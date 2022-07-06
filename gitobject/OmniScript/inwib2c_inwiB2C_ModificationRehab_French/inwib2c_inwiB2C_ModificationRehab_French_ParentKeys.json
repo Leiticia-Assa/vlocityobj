@@ -1,0 +1,13 @@
+[
+    "DataRaptor/INWI-B2C-Recap-Client",
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_GetLastOrderSuspension",
+    "DataRaptor/Inwib2c_check_eligibility_client",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C-GetMdnFromSubscription",
+    "DataRaptor/InwiB2C_DR_ActiveNetworkAsset",
+    "IntegrationProcedure/Inwi_InwiB2C_ActivateNetworkAsset",
+    "IntegrationProcedure/inwib2c_InwiB2C_DisplayNetworkAsset"
+]

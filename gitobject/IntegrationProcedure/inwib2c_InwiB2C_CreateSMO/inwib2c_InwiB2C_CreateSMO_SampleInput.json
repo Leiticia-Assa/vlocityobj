@@ -1,0 +1,23 @@
+{
+    "CSCreateSMO": {
+        "actionType": "CHOPT",
+        "canal": "inwiB2C_MyInwi",
+        "mdn": "212648064676",
+        "option": [
+            {
+                "attribute": [
+                    {
+                        "attributeCode": "INWIB2C_ATT_RT_ROAMING_VOIX_SMS",
+                        "attributeValue": "Roaming Voix+SMS+Data"
+                    }
+                ],
+                "codeOption": "INWIB2C_OFFERING_OPT_ROAMING",
+                "selected": false
+            },
+            {
+                "codeOption": "INWIB2C_OFFRING_VOLTE",
+                "selected": true
+            }
+        ]
+    }
+}

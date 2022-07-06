@@ -1,0 +1,7 @@
+[
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetSubscrptionInfoEligibility",
+    "DataRaptor/InwiB2C_SubscriptionVerifySAV",
+    "DataRaptor/InwiB2C_SubscriptionVerifySMO",
+    "DataRaptor/Inwi_B2C_OmniScript_AllSubscriptions"
+]

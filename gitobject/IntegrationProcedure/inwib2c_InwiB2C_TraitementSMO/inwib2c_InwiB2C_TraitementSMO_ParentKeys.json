@@ -1,0 +1,21 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_DREGetOrderLineByProduct",
+    "DataRaptor/InwiB2C_DREGetOrderLineParent",
+    "DataRaptor/InwiB2C_DRPSMOAttribute_API",
+    "DataRaptor/InwiB2C_DRPSMOOption_API",
+    "DataRaptor/InwiB2C_DRPSMO_API",
+    "DataRaptor/InwiB2C_DRPSuspRehabDataAPI",
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_DRTSMOAttribute_API",
+    "DataRaptor/InwiB2C_SetAttributeICC",
+    "DataRaptor/InwiB2C_SetAttributeMSISDN",
+    "DataRaptor/InwiB2C_SetAttributeSUSP_REHAB",
+    "DataRaptor/InwiB2C_UpdateSMOInfoAPI",
+    "DataRaptor/InwiB2C_insertCreateSMOEvent",
+    "DataRaptor/inwiB2C_DRERequestTraceAPI",
+    "DataRaptor/inwiB2C_DRPDataRestrictionAttribute",
+    "DataRaptor/inwiB2C_DRPSMOOptionAPIEvent",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_UpdateOldNewValuesOrder"
+]

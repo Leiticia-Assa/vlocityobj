@@ -1,0 +1,20 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_DREGetInfoPayXRequest",
+    "DataRaptor/InwiB2C_GetICCFromOrder",
+    "DataRaptor/InwiB2C_GetTPEAuthorizationInfo",
+    "DataRaptor/InwiB2C_UpdateOrderFieldsModSIM",
+    "DataRaptor/InwiB2C_check_AgenceInwi",
+    "DataRaptor/InwiB2W_DRPUpdateMotifSMOSIM",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_SetStatusOrder",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/Inwi_InwiB2C_CheckSecretCodeValidity",
+    "IntegrationProcedure/Inwi_inwiB2C_Create_payement",
+    "IntegrationProcedure/inwib2c_InwiB2C_OrderPaymentInfo",
+    "IntegrationProcedure/inwib2c_inwiB2C_UpdateActionOLI",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

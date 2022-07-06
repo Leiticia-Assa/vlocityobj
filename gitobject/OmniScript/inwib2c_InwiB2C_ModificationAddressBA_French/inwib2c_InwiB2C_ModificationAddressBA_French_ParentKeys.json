@@ -1,0 +1,12 @@
+[
+    "DataRaptor/INWIDREGetAccountAdressByBA",
+    "DataRaptor/INWIDREGetAccountAdressByName",
+    "DataRaptor/InwiB2C_CreateDemandeModifAddress",
+    "DataRaptor/InwiB2C_DRPUpdateBAAddress",
+    "DataRaptor/InwiB2C_DRPUpdateParentAddress",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "IntegrationProcedure/Inwi_InwiB2C_BSCSUpdateBillingAccountInfo",
+    "IntegrationProcedure/Inwi_InwiB2C_IMXUpdateBillingAccountInfo",
+    "IntegrationProcedure/inwib2c_InwiB2CUpdateBillingAccountAddress",
+    "IntegrationProcedure/inwib2c_UpdateAccountBiiling"
+]

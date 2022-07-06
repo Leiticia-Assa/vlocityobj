@@ -1,0 +1,6 @@
+[
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_DRT_TimeStamp",
+    "DataRaptor/InwiB2C_UpdateSMOInfoAPI",
+    "DataRaptor/InwiB2C_insertCheckoutSyncAssetSMOEvent"
+]

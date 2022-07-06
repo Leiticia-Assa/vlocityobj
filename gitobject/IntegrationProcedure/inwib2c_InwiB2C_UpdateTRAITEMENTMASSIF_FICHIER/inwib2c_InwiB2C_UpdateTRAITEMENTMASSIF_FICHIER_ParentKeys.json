@@ -1,0 +1,6 @@
+[
+    "DataRaptor/InwiB2C_GetRecordsfromtraitementMassif",
+    "DataRaptor/InwiB2C_UpdateTraitementMassifStatus",
+    "DataRaptor/InwiB2C_UpdateTraitementMassifStatustoFailed",
+    "DataRaptor/InwiB2C_getIdsFromTraitementMassif"
+]

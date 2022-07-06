@@ -1,0 +1,87 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "INWIB2C_CREATEBillingCUSTOMERINBilling",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/CREATEBillingCUSTOMERINBilling/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "body": {
+                "account": {
+                    "billingFrequency": "M",
+                    "currency": "MAD",
+                    "holderID": "0016j000020KyuX",
+                    "id": "0016j000020KyuX",
+                    "isPaymentResponsible": "Y",
+                    "isTaxExempted": "N",
+                    "pincode": "9353"
+                },
+                "additionalInfos": [
+                    {
+                        "code": "paperInvoice",
+                        "value": "true"
+                    }
+                ],
+                "party": {
+                    "businessSegment": {
+                        "costCenterId": "11",
+                        "priceGroupID": "1"
+                    },
+                    "contact": {
+                        "contactMedium": [
+                        ],
+                        "email": "Undefined@undefined.ma"
+                    },
+                    "faxNumber": "212000000000",
+                    "fixNumber": "212000000000",
+                    "identification": {
+                        "code": "I872377",
+                        "type": "CIN"
+                    },
+                    "individual": {
+                        "birthDate": "02-01-1987",
+                        "gender": "M"
+                    },
+                    "individualName": {
+                        "firstName": "Mohamed",
+                        "lastName": "Mellouki",
+                        "qualification": "M"
+                    },
+                    "marketsegment": "B2C",
+                    "mobileNumber": "212000000000",
+                    "organisationId": "INWI",
+                    "type": "INDIVIDUAL"
+                },
+                "paymentMethod": {
+                    "mode": "CS",
+                    "paymentDeadline": "30"
+                },
+                "urbanPropertyAddress": {
+                    "address": "Avenu 2 Mars",
+                    "address2": "Maroc",
+                    "city": "CASABLANCA",
+                    "encodingLanguage": "FR"
+                }
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues2",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetValues2",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/CREATEBillingCUSTOMERINBilling/Procedure/SetValues2"
+}

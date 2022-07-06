@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIDREHandleTransferPointsRequest",
+    "DataRaptor/InwiB2C-DRE-FRLIds",
+    "DataRaptor/InwiB2C-DRE-GetRootOrderItem_OrderItemId",
+    "IntegrationProcedure/inwib2c_inwib2c_get_points_lm"
+]

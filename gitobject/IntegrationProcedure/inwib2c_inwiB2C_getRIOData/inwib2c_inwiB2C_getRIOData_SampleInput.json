@@ -1,0 +1,26 @@
+{
+    "getRIODataRequest": {
+        "CSOperationInfo": {
+            "channel": "xxxxxx",
+            "user": "xxxxxxxx",
+            "uuid": "vvvvvvvvvvvv"
+        },
+        "mdnList": [
+            {
+                "mdn": "212648065422"
+            },
+            {
+                "mdn": "212648065552"
+            },
+            {
+                "mdn": "212648061209"
+            },
+            {
+                "mdn": "212689562314"
+            },
+            {
+                "mdn": "212648070805"
+            }
+        ]
+    }
+}

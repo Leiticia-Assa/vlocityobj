@@ -1,0 +1,5 @@
+[
+    "DataRaptor/InwiB2C-DRE-getMDNAndAccountId",
+    "DataRaptor/InwiB2C-DRE_GetFRLIds",
+    "IntegrationProcedure/Inwi_InwiB2C_GetAccess_TokenWin"
+]

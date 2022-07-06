@@ -1,0 +1,6 @@
+[
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetAccountFactuAPI",
+    "DataRaptor/InwiB2C_GetCustomerInfoEligibility",
+    "DataRaptor/InwiB2C_GetInfoClientAPI"
+]

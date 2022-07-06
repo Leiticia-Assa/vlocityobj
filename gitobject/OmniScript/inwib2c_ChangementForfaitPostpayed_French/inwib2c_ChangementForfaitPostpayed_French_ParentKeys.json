@@ -1,0 +1,22 @@
+[
+    "DataRaptor/INWI-B2C-Recap-Client",
+    "DataRaptor/INWIB2C_GetAssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DRE_DeleteSourceOfferForMigration",
+    "DataRaptor/InwiB2C_DRE_GetOrderInfoFORMigration",
+    "DataRaptor/InwiB2C_DRP_UpdateOrderItemForMigrationPost",
+    "DataRaptor/InwiB2C_DRT_Cart",
+    "DataRaptor/InwiB2C_GetAccountFromSubscription",
+    "DataRaptor/InwiB2C_GetOffreFromOrder",
+    "DataRaptor/InwiB2C_check_AgenceInwi",
+    "DataRaptor/Inwib2c_check_eligibility_client",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_getAccountFromOrder",
+    "IntegrationProcedure/inwib2c_DeleteRemiseAttr",
+    "IntegrationProcedure/inwib2c_GetMigrationPrice",
+    "IntegrationProcedure/inwib2c_INWIB2C_CHECK_IMPAYES",
+    "IntegrationProcedure/inwib2c_InwiB2C_CreateContract",
+    "IntegrationProcedure/inwib2c_InwiB2C_UpdateOrderItemForMigration",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

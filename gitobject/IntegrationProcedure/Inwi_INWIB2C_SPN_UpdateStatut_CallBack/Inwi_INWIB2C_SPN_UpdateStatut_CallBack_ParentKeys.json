@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C-DRE-GETPORTAREQUEST",
+    "DataRaptor/INWIB2C-DRP-UpdatePortaStatus",
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "IntegrationProcedure/Inwi_INWIB2C_HandlePortability"
+]

@@ -1,0 +1,8 @@
+[
+    "DataRaptor/InwiB2C_GetTPEAuthorizationInfo",
+    "DataRaptor/InwiB2C_getBillingAccountFromSubs",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "IntegrationProcedure/inwib2c_CancelPaiementERecharge",
+    "IntegrationProcedure/inwib2c_CreatePayementForERecharge",
+    "IntegrationProcedure/inwib2c_E_Recharge"
+]

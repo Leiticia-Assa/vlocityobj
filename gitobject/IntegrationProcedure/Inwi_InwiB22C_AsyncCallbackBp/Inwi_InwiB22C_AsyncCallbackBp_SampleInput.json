@@ -1,0 +1,7 @@
+{
+    "code": "API-EXCEPT",
+    "id": "a3625000000ESOYAA4",
+    "message": "erreur de transport HTTP : java.net.ConnectException: Connection refused: connect",
+    "reason": "INTERNAL_SERVER_ERROR",
+    "status": "1"
+}

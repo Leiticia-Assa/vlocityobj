@@ -1,0 +1,29 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "RQB2C-ORDER-04- ModOrDeactBillingContract",
+    "%vlocity_namespace%__CustomJavaScript__c": "inwib2c_Update_Subscription_Billing_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "inwib2c_Update_Subscription_Billing_Element_DREGetFRLIds.json",
+        "inwib2c_Update_Subscription_Billing_Element_DRGetRequest.json",
+        "inwib2c_Update_Subscription_Billing_Element_TransformJson.json",
+        "inwib2c_Update_Subscription_Billing_Element_DRtransformRequest.json",
+        "inwib2c_Update_Subscription_Billing_Element_HTTPActionContactBSCS.json",
+        "inwib2c_Update_Subscription_Billing_Element_ResponseAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "inwib2c_Update_Subscription_Billing",
+    "%vlocity_namespace%__PropertySet__c": "inwib2c_Update_Subscription_Billing_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "Update_Subscription_Billing",
+    "%vlocity_namespace%__Type__c": "inwib2c",
+    "CurrencyIsoCode": "MAD",
+    "Name": "INWIB2C_Update_Subscription_Billing",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/Update_Subscription_Billing/Procedure"
+}

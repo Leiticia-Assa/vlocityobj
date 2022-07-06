@@ -1,0 +1,11 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_CreateDemandeAvoir",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_DR_GetAvoirPriceFromDemande",
+    "DataRaptor/InwiB2C_DR_GetSubscriptionByAccountAvoir",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "IntegrationProcedure/inwib2c_InwiB2C_createBillingFees",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

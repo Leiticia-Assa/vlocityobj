@@ -1,0 +1,63 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "inwiB2C_generateRIO",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/inwiB2C_generateRIO/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "additionalInput": {
+            "rioList": "%rioList%"
+        },
+        "additionalOutput": {
+        },
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "failureResponse": {
+        },
+        "label": "HTTPAction1",
+        "namedCredential": "SOA_URL",
+        "postActionLogging": "",
+        "preActionLogging": "%endpoint%",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "restMethod": "POST",
+        "restOptions": {
+            "clientCertificateName": "",
+            "headers": {
+                "canal": "SF",
+                "content-type": "application/json; charset=utf-8",
+                "user": "%DREGetmdnInfoInSF:User%",
+                "uuid": "%DREGetmdnInfoInSF:uuid%"
+            },
+            "isCompressed": false,
+            "params": {
+            },
+            "sendBody": true,
+            "timeout": 0,
+            "xmlEscapeResponse": false
+        },
+        "restPath": "/inwi-api/customerManagement/v1/customerSupport/generateRIO",
+        "retryCount": 0,
+        "returnOnlyAdditionalOutput": false,
+        "returnOnlyFailureResponse": false,
+        "sendJSONNode": "",
+        "sendJSONPath": "",
+        "sendOnlyAdditionalInput": true,
+        "show": null,
+        "type": "Integration",
+        "useFormulas": true
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Rest Action",
+    "CurrencyIsoCode": "MAD",
+    "Name": "HTTPgenerateRIO",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/inwiB2C_generateRIO/Procedure/HTTPgenerateRIO"
+}

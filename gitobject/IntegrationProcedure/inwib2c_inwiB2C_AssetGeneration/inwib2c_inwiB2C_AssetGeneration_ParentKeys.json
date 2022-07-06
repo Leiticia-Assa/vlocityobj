@@ -1,0 +1,5 @@
+[
+    "DataRaptor/INWIB2C_AssetAccount",
+    "DataRaptor/inwiB2C_DRPinsertAssetGenerationEvent",
+    "DataRaptor/inwiB2C_checkAssetInventoryItems"
+]

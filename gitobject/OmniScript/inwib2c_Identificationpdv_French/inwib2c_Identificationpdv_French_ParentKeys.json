@@ -1,0 +1,23 @@
+[
+    "DataRaptor/InwiB2C_GetAgenceFromAccount",
+    "DataRaptor/InwiB2C_GetContractIdFromSub",
+    "DataRaptor/InwiB2C_GetUsersAccount",
+    "DataRaptor/InwiB2C_OS_UpdateContract",
+    "DataRaptor/InwiB2C_SearchContractByNum",
+    "DataRaptor/InwiB2C_UpdateAddress",
+    "DataRaptor/InwiB2C_getInfoDealerClient",
+    "DataRaptor/InwiB2C_getJsonForUpdateFromContractId",
+    "DataRaptor/InwiB2C_getSubscritionInfoDealer",
+    "DataRaptor/InwiB2C_setAccountIdInContact",
+    "DataRaptor/InwiB2C_setCreateCustomerLegacyInput",
+    "DataRaptor/InwiB2C_setDemandeIdentification",
+    "DataRaptor/InwiB2C_updateContractSubAccount",
+    "DataRaptor/Inwi_B2C_CountSubClientByCIN",
+    "DataRaptor/Inwi_B2C_CreateAccount",
+    "DataRaptor/Inwi_B2C_CreateAddress",
+    "DataRaptor/Inwi_B2C_CreateContactForAccount",
+    "DataRaptor/Inwi_B2C_getAccountByCIN_Client",
+    "DataRaptor/inwiB2C_DESERIALIZE",
+    "DataRaptor/inwiB2C_updateAccountDealer",
+    "IntegrationProcedure/Inwi_InwiB2C_CreateCustomerLegacy"
+]

@@ -1,0 +1,16 @@
+[
+    "DataRaptor/INWIB2C_getFicheClient",
+    "DataRaptor/Inwi360_CreateAddress",
+    "DataRaptor/Inwi360_UpdateAddress",
+    "DataRaptor/InwiB2C_CreateDemande",
+    "DataRaptor/InwiB2C_UpdateEmailContact",
+    "DataRaptor/Inwi_B2C_CheckCIN",
+    "DataRaptor/Inwi_B2C_CheckOrderInprogress",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_PublishCustomerEvent",
+    "DataRaptor/inwiB2C_UpdateAccountPost",
+    "DataRaptor/inwiB2C_countClientSubscriptions",
+    "DataRaptor/inwiB2C_updateContact",
+    "IntegrationProcedure/inwib2c_InwiB2C_BSCSModifyBillingCustomer",
+    "IntegrationProcedure/inwib2c_InwiB2C_IMXhandlePaymentRecovryCustomer"
+]

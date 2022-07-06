@@ -1,0 +1,6 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromMDN",
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/InwiB2C_GetOrderEnCoursOfSubscription",
+    "DataRaptor/InwiB2C_GetStateOrchPlan"
+]

@@ -1,0 +1,11 @@
+{
+    "action": "ON_BILL",
+    "mdn": "212648048383",
+    "productOrderItem": [
+        {
+            "orderItemAction": "ADD",
+            "orderItemId": "81560"
+        }
+    ],
+    "type": "OCS"
+}

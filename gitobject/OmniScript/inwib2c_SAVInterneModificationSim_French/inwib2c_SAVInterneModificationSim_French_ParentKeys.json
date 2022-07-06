@@ -1,0 +1,15 @@
+[
+    "DataRaptor/INWIB2C_AssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_DREGetDistrPartId",
+    "DataRaptor/InwiB2C_GetICCFromOrder",
+    "DataRaptor/InwiB2C_UpdateOrderFieldsModSIM",
+    "DataRaptor/InwiB2C_check_AgenceInwi",
+    "DataRaptor/InwiB2W_DR_UpdateMotif_SAVSIM",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_SetStatusOrder",
+    "DataRaptor/inwiB2C_checkAssetInventoryItems",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

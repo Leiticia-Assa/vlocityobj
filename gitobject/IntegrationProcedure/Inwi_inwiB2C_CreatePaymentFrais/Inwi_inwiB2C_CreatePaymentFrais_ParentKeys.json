@@ -1,0 +1,10 @@
+[
+    "DataRaptor/InwiB2C_CSCreatePaymentPayXIteration",
+    "DataRaptor/InwiB2C_DREGetOffersInfosCaution",
+    "DataRaptor/InwiB2C_DREGetOrderInfoPayX",
+    "DataRaptor/InwiB2C_DRPostOrderItemPaymentInfo",
+    "DataRaptor/InwiB2C_DRTGetOffersInfosWithCaution",
+    "DataRaptor/InwiB2C_DRTMergeCaution",
+    "DataRaptor/inwiB2C_DRTOrdeItemPaymentInfo",
+    "DataRaptor/inwiB2C_DRTPaymentPayxFrais"
+]

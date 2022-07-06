@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWIB2C_GetAssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_GetAccountFromSubscription",
+    "DataRaptor/InwiB2C_GetOrderItemsIdsByOrderIdForAction",
+    "DataRaptor/InwiB2C_UpdateOrderStatut",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_PostOrderSubscription",
+    "DataRaptor/inwiB2C_updateOrderActeDeGestion",
+    "IntegrationProcedure/Inwi_InwiB2C_UpdateOrderItemActionValue"
+]

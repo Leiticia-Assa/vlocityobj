@@ -1,0 +1,161 @@
+{
+    "%vlocity_namespace%__Active__c": false,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "inwib2c_CreateBillingMobileContract",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/CreateBillingMobileContract/Procedure",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__PropertySet__c": {
+        "actionMessage": "",
+        "chainOnStep": false,
+        "disOnTplt": false,
+        "elementValueMap": {
+            "body": {
+                "id": "8013M000000MQweQAG",
+                "productOrderItem": {
+                    "billingAccount": {
+                        "billingAccountID": "629911999"
+                    },
+                    "capture_id": "SIN174552870287",
+                    "product": {
+                        "mainNetworkOffer": "86913",
+                        "offer_code": "MOB02",
+                        "realizingService": [
+                            {
+                                "code": "ALIZA",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009yddUAA",
+                                "parameter": [
+                                    {
+                                        "code": "ANNFR",
+                                        "value": "NON"
+                                    },
+                                    {
+                                        "code": "ENGAG",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "code": "FORCH",
+                                        "value": "86913"
+                                    },
+                                    {
+                                        "code": "GAMOF",
+                                        "value": "GALAXY"
+                                    },
+                                    {
+                                        "code": "OPXGO",
+                                        "value": "NON"
+                                    },
+                                    {
+                                        "code": "PLAFB2C",
+                                        "value": "-999"
+                                    },
+                                    {
+                                        "code": "TYPLG",
+                                        "value": "GP"
+                                    },
+                                    {
+                                        "code": "TYPOP",
+                                        "value": "NORM"
+                                    },
+                                    {
+                                        "code": "YTYPHD",
+                                        "value": "SIM"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "OMB02",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009ydoUAA",
+                                "parameter": [
+                                    {
+                                        "code": "PLAFDATB2C",
+                                        "value": "43456"
+                                    },
+                                    {
+                                        "code": "TYPCAP",
+                                        "value": "DATA1"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "OS4GC",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009ydpUAA",
+                                "parameter": [
+                                ]
+                            },
+                            {
+                                "code": "OPVIN",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009ydrUAA",
+                                "parameter": [
+                                    {
+                                        "code": "ANNFR",
+                                        "value": "NON"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "OPVNT",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009ydsUAA",
+                                "parameter": [
+                                    {
+                                        "code": "ANNFR",
+                                        "value": "NON"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "OXGO2",
+                                "handlingAction": "ADD",
+                                "hasDiscount": false,
+                                "id": "a2G3M0000009ydtUAA",
+                                "parameter": [
+                                    {
+                                        "code": "X Go MOB02",
+                                        "value": "NON"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resourceRef": [
+                            {
+                                "imsi": "604020090227053",
+                                "mdn": "212648020179",
+                                "serialNumber": "892120270001227162"
+                            }
+                        ]
+                    }
+                },
+                "relatedParty": {
+                    "marketSegment": "B2C",
+                    "orgID": "INWI"
+                },
+                "uuid": "018b08e3-a359-fad8-819d-21d5267850c1"
+            }
+        },
+        "executionConditionalFormula": "",
+        "failOnStepError": true,
+        "failureConditionalFormula": "",
+        "label": "SetValues1",
+        "responseJSONNode": "",
+        "responseJSONPath": "",
+        "show": null
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Set Values",
+    "CurrencyIsoCode": "MAD",
+    "Name": "SetValues1",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/inwib2c/CreateBillingMobileContract/Procedure/SetValues1"
+}

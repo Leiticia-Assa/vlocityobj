@@ -1,0 +1,20 @@
+{
+    "CSHandleDisconnectOrder": {
+        "CSOrder": {
+            "CSOffer": {
+                "CSProduct": {
+                    "CSMobileDirectoryNumber": {
+                        "mdn": "212642526282"
+                    }
+                }
+            },
+            "captureID": "a3625000000ESOYAA4",
+            "status": "FINISHED"
+        }
+    },
+    "CSOperationInfo": {
+        "channel": "SF",
+        "user": "vlocity-xom",
+        "uuid": "f7f2d5c8-afbc-47cd-ff7f-1b9b9098f12d"
+    }
+}

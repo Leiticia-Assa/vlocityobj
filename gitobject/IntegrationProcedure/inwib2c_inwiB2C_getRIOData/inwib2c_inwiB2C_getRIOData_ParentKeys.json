@@ -1,0 +1,7 @@
+[
+    "DataRaptor/InwiB2C_DRPTraceAPI",
+    "DataRaptor/inwiB2C_DREgetAccountInfo",
+    "DataRaptor/inwiB2C_DREgetProductInfo",
+    "DataRaptor/inwiB2C_DRTDataRIO",
+    "DataRaptor/inwiB2C_mdnExistInSF"
+]

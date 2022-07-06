@@ -1,0 +1,7 @@
+[
+    "DataRaptor/AccountSearchVIP",
+    "DataRaptor/InwiB2C_GetMDN_FromAccount",
+    "DataRaptor/InwiB2C_Profile_Licence",
+    "DataRaptor/InwiB2C_SearchAccountByMDN",
+    "DataRaptor/InwiB2C_SearchAccountByNameOrCIN"
+]

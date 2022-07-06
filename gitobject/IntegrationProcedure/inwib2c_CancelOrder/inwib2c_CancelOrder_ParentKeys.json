@@ -1,0 +1,9 @@
+[
+    "DataRaptor/InwiB2C_CancelOrder",
+    "DataRaptor/InwiB2C_DRERessourceFromOrders",
+    "DataRaptor/InwiB2C_DRTRessourceFromOrders",
+    "DataRaptor/InwiB2C_DR_GetMdnFromOrders",
+    "DataRaptor/InwiB2C_Exract_Order",
+    "DataRaptor/InwiB2C_GetchefAgence",
+    "DataRaptor/inwiB2C_CreateBusinessEventValidation"
+]

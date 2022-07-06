@@ -1,0 +1,7 @@
+[
+    "DataRaptor/InwiB2C-DRE-GetInfoCustFromOrder",
+    "DataRaptor/InwiB2C-DRE-GetInfoCustToSynch",
+    "DataRaptor/InwiB2C-DRE_GetFRLIds",
+    "DataRaptor/inwiB2C_updateAccountForSynchronise",
+    "IntegrationProcedure/Inwi_InwiB2C_CreateCustomerLegacy"
+]

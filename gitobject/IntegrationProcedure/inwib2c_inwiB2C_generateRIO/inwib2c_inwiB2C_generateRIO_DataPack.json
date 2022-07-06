@@ -1,0 +1,28 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "RQ-00001",
+    "%vlocity_namespace%__CustomJavaScript__c": "inwib2c_inwiB2C_generateRIO_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "inwib2c_inwiB2C_generateRIO_Element_MdnNull.json",
+        "inwib2c_inwiB2C_generateRIO_Element_ResponseAction2.json",
+        "inwib2c_inwiB2C_generateRIO_Element_DREGetmdnInfoInSF.json",
+        "inwib2c_inwiB2C_generateRIO_Element_HTTPgenerateRIO.json",
+        "inwib2c_inwiB2C_generateRIO_Element_generateRIOResponse.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "inwib2c_inwiB2C_generateRIO",
+    "%vlocity_namespace%__PropertySet__c": "inwib2c_inwiB2C_generateRIO_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "inwiB2C_generateRIO",
+    "%vlocity_namespace%__Type__c": "inwib2c",
+    "CurrencyIsoCode": "MAD",
+    "Name": "inwiB2C_generateRIO",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/inwiB2C_generateRIO/Procedure"
+}

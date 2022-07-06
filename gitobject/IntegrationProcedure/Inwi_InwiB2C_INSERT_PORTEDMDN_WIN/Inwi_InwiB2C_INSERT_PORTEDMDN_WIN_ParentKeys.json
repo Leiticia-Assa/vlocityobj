@@ -1,0 +1,8 @@
+[
+    "DataRaptor/INWIB2C_GetPortedMdnToAssignWIN",
+    "DataRaptor/InwiB2C-DRE-GetIccFromOrderItemForPortaWin",
+    "DataRaptor/InwiB2C-DRE-GetPortMdnToInsertWin",
+    "DataRaptor/InwiB2C-DRE-GetRootOrderItem",
+    "DataRaptor/InwiB2C-DRE_GetFRLIds",
+    "IntegrationProcedure/Inwi_INWIB2C_getMDNStatus"
+]

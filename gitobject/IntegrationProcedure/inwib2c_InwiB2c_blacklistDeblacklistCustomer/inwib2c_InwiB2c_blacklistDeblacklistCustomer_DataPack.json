@@ -1,0 +1,29 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "RQB2C-CUSTOMER-09",
+    "%vlocity_namespace%__CustomJavaScript__c": "inwib2c_InwiB2c_blacklistDeblacklistCustomer_SampleInput.json",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_InwiB2C-DRE-FRLIds.json",
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_InwiB2C-DRE-GetRootOrderItem_OrderItemId.json",
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_InwiB2C_DRE_GetInfoCustomerBlackDeblack.json",
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_HTTPAction1.json",
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_SetValues1.json",
+        "inwib2c_InwiB2c_blacklistDeblacklistCustomer_Element_ResponseAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__OmniProcessType__c": "Integration Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "inwib2c_InwiB2c_blacklistDeblacklistCustomer",
+    "%vlocity_namespace%__PropertySet__c": "inwib2c_InwiB2c_blacklistDeblacklistCustomer_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "InwiB2c_blacklistDeblacklistCustomer",
+    "%vlocity_namespace%__Type__c": "inwib2c",
+    "CurrencyIsoCode": "MAD",
+    "Name": "InwiB2c_blacklistDeblacklistCustomer",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/inwib2c/InwiB2c_blacklistDeblacklistCustomer/Procedure"
+}

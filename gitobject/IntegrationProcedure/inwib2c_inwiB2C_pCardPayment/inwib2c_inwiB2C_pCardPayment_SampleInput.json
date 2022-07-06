@@ -1,0 +1,15 @@
+{
+    "input": {
+        "action": "CHECK",
+        "additonal_field_01": "PAN555560",
+        "additonal_field_02": "total",
+        "additonal_field_03": "true",
+        "amount": "166.0",
+        "currency": "504",
+        "ecr_number": "2",
+        "it_vendor_id": "23",
+        "outlet_id": "9558214359",
+        "pay_kind": "0",
+        "terminal_id": "93547812"
+    }
+}

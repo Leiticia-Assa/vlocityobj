@@ -1,0 +1,10 @@
+[
+    "DataRaptor/INWIB2C_GetAssetAccountFromSubscription",
+    "DataRaptor/InwiB2C_GetMDNForRembourssement",
+    "DataRaptor/InwiB2C_GetOderFromDemande",
+    "DataRaptor/InwiB2C_GetParentItem",
+    "DataRaptor/InwiB2C_InsertDemandeRemb",
+    "IntegrationProcedure/inwib2c_OrderSubscription",
+    "IntegrationProcedure/inwib2c_RembPaiement",
+    "IntegrationProcedure/inwib2c_inwiB2C_updateOrderStatus"
+]

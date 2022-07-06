@@ -1,0 +1,14 @@
+[
+    "DataRaptor/INWI-B2C-Recap-Client",
+    "DataRaptor/InwiB2C_DRT_MergMdnSim",
+    "DataRaptor/InwiB2C_GetMsisdnFromSim",
+    "DataRaptor/InwiB2C_UpdateMsisdn",
+    "DataRaptor/Inwib2c_check_eligibility_client",
+    "DataRaptor/inwiB2C_CreateContract",
+    "DataRaptor/inwiB2C_GetCommunityUserInfo",
+    "DataRaptor/inwiB2C_GetOrderInfo",
+    "DataRaptor/inwiB2C_UpdateOrderAcquisition",
+    "DataRaptor/inwiB2C_getAccountFromOrder",
+    "DataRaptor/inwiB2C_updateOrderStatus",
+    "IntegrationProcedure/Inwi_inwiB2C_Create_payement"
+]

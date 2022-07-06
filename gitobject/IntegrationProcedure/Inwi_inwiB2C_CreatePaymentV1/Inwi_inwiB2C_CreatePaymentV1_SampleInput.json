@@ -1,0 +1,12 @@
+{
+    "OrderId": "8013M000000Nvf5QAC",
+    "PaymentReference": "",
+    "bankAccount": 1234567890123456,
+    "bankCheckDueDate": "2022-02-19",
+    "bankCheckID": 6666666666666666,
+    "bankCity": 111,
+    "bankCode": 111,
+    "bankKey": 22,
+    "billingAccountID": "",
+    "mode": "BC"
+}

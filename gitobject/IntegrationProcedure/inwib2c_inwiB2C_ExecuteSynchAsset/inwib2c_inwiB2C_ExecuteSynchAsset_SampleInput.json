@@ -1,0 +1,9 @@
+{
+    "TraceId": "a6r25000000CkV4AAK",
+    "inputMap": {
+        "accountId": "0012500001Osh19AAB",
+        "id": "02i2500000JByrnAAD",
+        "requestDateTime": "2021-10-28 15:58:42",
+        "subaction": "assetToOrder"
+    }
+}
