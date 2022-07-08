@@ -6,7 +6,7 @@ Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
 ProjectPath: ./gitobject
-TotalTime: 1m 57s
+TotalTime: 2m 35s
 Count:
   Success: {}
 Errors: []
