@@ -25,3 +25,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 # vlocity-object
 # vlocity-object
 # vlocity-object
+# vlocityobj
