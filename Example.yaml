@@ -4,3 +4,5 @@ queries:
   - IntegrationProcedure
   - DataRaptor
   - FlexCard
+ignoreLWCActivationOS: true 
+ignoreLWCActivationCards: true
