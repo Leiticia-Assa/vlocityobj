@@ -1,4 +1,5 @@
 build.properties
+gitobject/
 coverage/
 Example.yaml
 node_modules/
