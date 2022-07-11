@@ -1,6 +1,6 @@
 build.properties
 coverage/
-Example.yaml
+!Example.yaml
 node_modules/
 vlocity-temp/
 .vscode/
