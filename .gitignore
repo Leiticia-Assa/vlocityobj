@@ -1,7 +1,8 @@
 build.properties
 coverage/
-Example.yaml
+!Example.yaml
 node_modules/
+gitobject/
 vlocity-temp/
 .vscode/
 .sfdx/
