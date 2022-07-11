@@ -6,7 +6,7 @@ Namespace: vlocity_cmt
 Job: VDX
 Action: Deploy
 ProjectPath: ./gitobject
-TotalTime: 2m 35s
+TotalTime: 0m 18s
 Count:
   Success: {}
 Errors: []
@@ -16,4 +16,3 @@ StatusCount:
   Remaining: 0
   Success: 1143
   Error: 0
-id: !<tag:yaml.org,2002:js/undefined> ''
